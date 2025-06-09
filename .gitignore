@@ -1,4 +1,3 @@
-
 .vs/LFGUtils/v16/.suo
 .vs/LFGUtils/v16/Browse.VC.db
 .vs/LFGUtils/v16/ipch/AutoPCH/39d7617ba24ac675/EXPLODE.ipch
@@ -13,3 +12,4 @@ VS_PRJ/.vs/LFGUtils/v16/ipch/AutoPCH/c2cf1c91f8bf5c73/EXPLODE.ipch
 VS_PRJ/.vs/LFGUtils/v16/Solution.VC.db
 VS_PRJ/.vs/LFGUtils/v16/Solution.VC.db-shm
 VS_PRJ/.vs/LFGUtils/v16/Solution.VC.db-wal
+*.O
